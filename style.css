@@ -141,13 +141,12 @@ button {
   color: white;
 }
 
-.btn-delete {
-  background: #6b7280;
-  color: white;
+ .btn-delete {
+  border-radius: 80px;
   position: absolute;
-  top: 15px;
-  right: 15px;
-}
+  top: 32px;
+  right: 32px;
+} 
 
 .empty-state {
   text-align: center;

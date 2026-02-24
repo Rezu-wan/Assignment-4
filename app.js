@@ -116,7 +116,7 @@ function renderJobs() {
 
     card.innerHTML = `
       <button class="btn-delete">
-      <i class="fa-solid fa-trash"></i>
+      <i class="fa-regular fa-trash-can"></i>
       </button>
       <h3>${job.company}</h3>
       <p><strong>${job.position}</strong></p>
